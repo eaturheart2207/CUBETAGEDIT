@@ -142,15 +142,6 @@ cubeedit /path/to/music     # Открыть в конкретной дирек�
 - На очень маленьких терминалах (менее 80x24) интерфейс может отображаться некорректно
 - Windows требует дополнительной библиотеки `windows-curses`
 
-### 📝 TODO
-
-- [ ] Пакетное редактирование тегов
-- [ ] Автозаполнение тегов из имени файла
-- [ ] Генерация имён файлов по шаблону из тегов
-- [ ] ASCII-превью обложек
-- [ ] Экспорт/импорт тегов в CSV/JSON
-- [ ] Поддержка плейлистов
-
 ### 📄 Лицензия
 
 MIT
@@ -275,15 +266,6 @@ cubeedit /path/to/music     # Open in specific directory
 
 - On very small terminals (less than 80x24) the interface may not display correctly
 - Windows requires additional `windows-curses` library
-
-### 📝 TODO
-
-- [ ] Batch tag editing
-- [ ] Auto-fill tags from filename
-- [ ] Generate filenames from tags by template
-- [ ] ASCII cover art preview
-- [ ] Export/import tags to CSV/JSON
-- [ ] Playlist support
 
 ### 📄 License
 
